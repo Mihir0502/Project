@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\repos\\Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\departmentall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\departmentall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\employeeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\employeeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|d:\\projects\\repos\\basic\\basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Department.cs",
+              "RelativeDocumentMoniker": "Basic\\Department.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Department.cs",
+              "RelativeToolTip": "Basic\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:31:49.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentAll.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\DepartmentAll.cs",
+              "RelativeDocumentMoniker": "Basic\\DepartmentAll.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\DepartmentAll.cs",
+              "RelativeToolTip": "Basic\\DepartmentAll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:12:28.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Basic\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Basic\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:11:46.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Basic\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Basic\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:00:16.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeAll.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\EmployeeAll.cs",
+              "RelativeDocumentMoniker": "Basic\\EmployeeAll.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\EmployeeAll.cs",
+              "RelativeToolTip": "Basic\\EmployeeAll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:44:47.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Employee.cs",
+              "RelativeDocumentMoniker": "Basic\\Employee.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Employee.cs",
+              "RelativeToolTip": "Basic\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:48:18.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\repos\\Basic\\Basic\\Program.cs",
+              "RelativeDocumentMoniker": "Basic\\Program.cs",
+              "ToolTip": "D:\\Projects\\repos\\Basic\\Basic\\Program.cs",
+              "RelativeToolTip": "Basic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:06:06.338Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
