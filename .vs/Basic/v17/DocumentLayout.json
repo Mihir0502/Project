@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|c:\\users\\mihir.khandelwal\\source\\repos\\basic\\basic\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|c:\\users\\mihir.khandelwal\\source\\repos\\basic\\basic\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|c:\\users\\mihir.khandelwal\\source\\repos\\basic\\basic\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|c:\\users\\mihir.khandelwal\\source\\repos\\basic\\basic\\departmentall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\departmentall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|c:\\users\\mihir.khandelwal\\source\\repos\\basic\\basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|c:\\users\\mihir.khandelwal\\source\\repos\\basic\\basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|c:\\users\\mihir.khandelwal\\source\\repos\\basic\\basic\\imagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\imagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|c:\\users\\mihir.khandelwal\\source\\repos\\basic\\basic\\employeeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E361B86D-B19D-4188-8774-AE774F1435AA}|Basic\\Basic.csproj|solutionrelative:basic\\employeeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Basic\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\Models\\Employee.cs",
+              "RelativeToolTip": "Basic\\Models\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:19:35.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\ImageHandler.cs",
+              "RelativeDocumentMoniker": "Basic\\ImageHandler.cs",
+              "ToolTip": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\ImageHandler.cs",
+              "RelativeToolTip": "Basic\\ImageHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:57:12.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\appsettings.json",
+              "RelativeDocumentMoniker": "Basic\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\appsettings.json",
+              "RelativeToolTip": "Basic\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T16:28:41.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentAll.cs",
+              "DocumentMoniker": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\DepartmentAll.cs",
+              "RelativeDocumentMoniker": "Basic\\DepartmentAll.cs",
+              "ToolTip": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\DepartmentAll.cs",
+              "RelativeToolTip": "Basic\\DepartmentAll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:12:28.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeAll.cs",
+              "DocumentMoniker": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\EmployeeAll.cs",
+              "RelativeDocumentMoniker": "Basic\\EmployeeAll.cs",
+              "ToolTip": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\EmployeeAll.cs",
+              "RelativeToolTip": "Basic\\EmployeeAll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:44:02.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Basic\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Basic\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAlwEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:11:46.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Basic\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Basic\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAqwE0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:00:16.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\Program.cs",
+              "RelativeDocumentMoniker": "Basic\\Program.cs",
+              "ToolTip": "C:\\Users\\Mihir.Khandelwal\\source\\repos\\Basic\\Basic\\Program.cs",
+              "RelativeToolTip": "Basic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:06:06.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
