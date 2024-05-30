@@ -46,7 +46,7 @@ namespace Basic.Controllers
             using (var SqlCommand = new SqlCommand())
             {
                 connection.Open();
-                var data12 = connection.QueryFirstOrDefault<Department>("usp_GetDepartments", commandType: CommandType.StoredProcedure);
+                var data12 = connection.Query<Department>("usp_GetDepartments", commandType: CommandType.StoredProcedure);
                 return Ok(data12);
             }
         }
@@ -65,7 +65,7 @@ namespace Basic.Controllers
                     }
                 }
 
-        [HttpPost("DeleteDepartment")]
+        [HttpDelete("DeleteDepartment")]
         public IActionResult DeleteDepartment(int departmentId)
         {
             using (var connection = new SqlConnection(_connectionString))
@@ -78,7 +78,7 @@ namespace Basic.Controllers
             return Ok("Deleted successfully");
         }
 
-        [HttpPost("UpdateDepartment")]
+        [HttpPut("UpdateDepartment")]
         public IActionResult UpdateDepartment(Department department)
         {
             using(var connection = new SqlConnection(_connectionString))

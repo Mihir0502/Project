@@ -25,12 +25,10 @@ namespace Basic.Controllers
         public IActionResult GetEmployee()
         {
             
-            using (var connection = new SqlConnection())
+            using (var connection = new SqlConnection(_connectionString))
             {
                 connection.Open();
-                var result = connection.Execute("GetEmployee", commandType: System.Data.CommandType.StoredProcedure);
-                //string query = "SELECT * FROM tblEmployees";
-                //var employees = connection.Query<Employee>(query);
+                var result = connection.Query<Employee>("usp_GetEmployees", commandType: CommandType.StoredProcedure);
                 return Ok(result);
             }
         }
@@ -42,7 +40,7 @@ namespace Basic.Controllers
             {
                 connection.Open();
                 var result = connection.Execute("usp_InsertEmployee",
-                new { emp.FName, emp.Email, emp.DepartmentId, emp.Postion, emp.Salary, emp.HireDate },
+                new { emp.Id, emp.Fname , emp.Email, emp.DepartmentId, emp.Postion, emp.Salary, emp.HireDate },
                 commandType: CommandType.StoredProcedure);
                 return Ok("Inserted successfully.");
             }
@@ -69,7 +67,7 @@ namespace Basic.Controllers
             }
         }
 
-        [HttpPost("DeleteEmployee")]
+        [HttpDelete("DeleteEmployee")]
         public IActionResult DeleteDepartment(string FName)
         {
             using (var connection = new SqlConnection(_connectionString))
